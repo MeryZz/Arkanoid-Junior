@@ -45,8 +45,8 @@ El flujo principal se basa en el **GameManager**, que maneja las escenas (menú 
 
 # 5. Sistema de Puntuación
 
-- **Bloque rosa**: +5 puntos  
 - **Cómo se Ganan Puntos**: Cada bloque tiene un valor diferente dependiendo de su color:
+  - **Bloque rosa**: +5 puntos  
   - **Bloque verde**: +4 puntos
   - **Bloque azul**: +3 puntos
   - **Bloque amarillo**: +1 punto
